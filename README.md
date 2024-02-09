@@ -26,22 +26,3 @@ Proficient in a variety of programming languages and technologies PHP, TYPO3, Ty
 In my free time, you'll often find me immersed in personal coding projects, exploring new technologies, and honing my skills in software development. I believe in the power of collaboration and enjoy working with fellow developers to bring ideas to fruition. 🧑‍💻
 
 I'm dedicated to lifelong learning and continuously seek opportunities to expand my knowledge and stay abreast of the latest developments in the ever-evolving field of IT. 📚
-
-# Hallo! 👋
-Ich bin **Sulaiman Sulaiman** und komme aus Aleppo, Syrien. Mit großem Interesse an der Entwicklung von Anwendungen absolviere ich derzeit eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei @fixpunkt-com in Bonn, Deutschland. 🎓
-
-Ich beherrsche eine Vielzahl von Programmiersprachen und Technologien wie PHP, TYPO3, Typescript, React und Bootstrap. Ich bin leidenschaftlich daran interessiert, komplexe technische Herausforderungen zu lösen und innovative Ideen umzusetzen. Ob es darum geht, benutzerfreundliche Oberflächen zu erstellen oder Backend-Systeme zu optimieren, ich bin immer bereit für die Aufgabe. 😎
-
-In meiner Freizeit tauche ich oft in persönliche Coding-Projekte ein, erkunde neue Technologien und verbessere meine Fähigkeiten in der Softwareentwicklung. Ich glaube an die Kraft der Zusammenarbeit und arbeite gerne mit anderen Entwicklern zusammen, um Ideen umzusetzen. 🧑‍💻
-
-Ich bin bestrebt, lebenslang zu lernen und suche ständig nach Möglichkeiten, mein Wissen zu erweitern und auf dem neuesten Stand der Entwicklungen in der sich ständig weiterentwickelnden IT-Branche zu bleiben. 📚
-
-# مرحباً! 👋
-
-أنا سليمان سليمان، من مدينة حلب ، سوريا. بفضول كبير لتطوير التطبيقات، أقوم حاليًا بتدريب مهني كمتخصص في تطوير التطبيقات في شركة @fixpunkt-com في بون، ألمانيا. 🎓
-
-أتقن مجموعة متنوعة من لغات وتقنيات البرمجة مثل PHP و TYPO3 و Typescript و React و Bootstrap. لدي حماس كبير لمواجهة التحديات التقنية المعقدة وتنفيذ الأفكار المبتكرة. سواء كان الأمر يتعلق بإنشاء الواجهات الامامية أو تحسين أنظمة الواجهة الخلفية، فأنا دائمًا على استعداد لخوض المغامرات. 😎
-
-في وقت فراغي، غالبًا ما تجدني غارقًا في مشاريع برمجية شخصية، واستكشاف التقنيات الجديدة، وتحسين مهاراتي في تطوير البرمجيات. أؤمن بقوة التعاون وأستمتع بالعمل مع زملاء المطورين لتحقيق الأفكار. 🧑‍💻
-
-أنا ملتزم بالتعلم مدى الحياة وأبحث باستمرار عن الفرص لتوسيع معرفتي والبقاء على اطلاع بآخر التطورات في مجال تكنولوجيا المعلومات المتطور باستمرار. 📚
