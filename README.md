@@ -1,6 +1,6 @@
 
 <a href="#">
-<img width="100%" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=200&color=26a641&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=120&lines=Hey!+I'm+Sulaiman+%F0%9F%91%8B;Full+stack+developer+%3F%3E"/>
+<img width="100%" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=200&color=26a641&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=120&lines=Hey!+I'm+Sulaiman+%F0%9F%91%8B;Full-stack+developer+%3F%3E"/>
 </a>
 
 <a href="https://www.linkedin.com/in/su14iman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"/></a>
